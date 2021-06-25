@@ -3,7 +3,7 @@
 I'm Clarissa, a former Dietitian nowadays a Software Developer.
 
 🔭 I’m currently working on:
-  * A 2D game built with SFML.
+  * Improving my Python skills.
 
 🌱 I’m currently learning:
   * C++
