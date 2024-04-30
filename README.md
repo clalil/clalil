@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I'm Clarissa, a former Dietitian nowadays a Software Developer.
+I'm Clarissa,
 
 🔭 I’m currently working on:
   * Improving my Python skills.
 
 🌱 I’m currently learning:
-  * C++
-  * Elixir
   * Python
+  * Docker
 
 💬 Talk to me about:
   * Pair programming 💥
@@ -16,4 +15,4 @@ I'm Clarissa, a former Dietitian nowadays a Software Developer.
   * Delicious food 🍜
 
 🎈 Fun fact:
-  * In my spare time I mentor junior developers 👩‍🎓 & foster homeless 🐰 & 🐶.
+  * In my spare time I mentor junior developers 👩‍🎓 and have recently started contributing to open source.
