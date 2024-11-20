@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-I'm Clarissa,
-
 🔭 I’m currently working on:
-  * Improving my Python skills.
-
-🌱 I’m currently learning:
-  * Python
-  * Docker
+  * Learning about LLMs.
 
 💬 Talk to me about:
   * Pair programming 💥
